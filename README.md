@@ -13,7 +13,7 @@ Outside of programming I'm a tennis player, love the outdoors, and I am a keen p
 My Languages and tools
 Javascript React React Native and CSS nodeJs MongoDB Postgres and SQL
 
-![alt text](https://technirmitisoftwares.com/blog/wp-content/uploads/2019/05/hiring-best-full-stack-developers-india.jpg "Dev Juggling")
+![alt text](https://thumbs.dreamstime.com/z/programmer-cartoon-character-vector-illustration-super-professional-project-manager-funny-person-yoga-pose-97265997.jpg "Dev Juggling")
 
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/william-jl-johnson/)
