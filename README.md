@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**willwendal/willwendal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 My name is Will and I am a passionate developer. 
 
